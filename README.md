@@ -4,3 +4,6 @@ A Python application built using Streamlit to manage plants, log care activities
 
 app link-
 https://plant-care-tracker-mohamedalmahfoodh-bqbbnq3n6gmabtux6r5h49.streamlit.app
+
+video link-
+https://youtu.be/Kg5IxP1_Sak
